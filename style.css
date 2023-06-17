@@ -59,6 +59,7 @@ body, div {
     top: 330px;
     right: 500px;
     font-size: 80px;
+    z-index: 1;
   }
   
   /* Estilo das redes sociais */
@@ -70,6 +71,7 @@ body, div {
     align-items: center;
     flex-direction: column;
     filter: invert(1);
+    z-index: 1;
   }
   
   .sociais img {
