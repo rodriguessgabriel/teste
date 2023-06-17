@@ -143,7 +143,7 @@ body, div {
     transform: translate(-50%, -50%);
 }
   
-.logos-history h1 {
+.logos-history h2 {
   font-size: 40px;
   position: absolute;
   top: 1560px; /* Ajuste a distância vertical conforme necessário */
@@ -245,7 +245,7 @@ body, div {
     padding: 20px;
   }
 
-  .conhecimento-geral h1{
+  .conhecimento-geral h2{
   font-size: 40px;
   position: absolute;
   top: -80px; /* Ajuste a distância vertical conforme necessário */
